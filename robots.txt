@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /designer_4/
+Sitemap: http://www.1-designer-apparel.com/sitemap.xml 
